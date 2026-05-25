@@ -32,9 +32,8 @@
 <td width="45%">
 
 ```console
-root@github:~$ ./fetch.sh
 
-━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━
 
 [ Host ]
 > Harsh Nilesh Bhosale
@@ -46,7 +45,7 @@ root@github:~$ ./fetch.sh
 > sports
 > games
 > sketching
-
+━━━━━━━━━━━━━━━━━━━━━
 [OS]
 > Linux Mint
 
@@ -61,7 +60,7 @@ root@github:~$ ./fetch.sh
 
 [ Focus ]
 > Linux + Networking
-
+━━━━━━━━━━━━━━━━━━━━━
 [ born ]
 > 07/06/2007
 
