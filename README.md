@@ -31,32 +31,32 @@
 
 <td width="45%">
 
-```bash
-┌──(harsh㉿github)-[~/profile]
-└─$ fetch.sh
+```console
+root@github:~$ ./fetch.sh
 
-🌻 name:
-Harsh Nilesh Bhosale
+━━━━━━━━━━━━━━━━━━━━━━
 
-🌻 field:
-cybersecurity
+[ user ]
+> Harsh Nilesh Bhosale
 
-🌻 hobbies:
-sports
-games
-sketching
+[ field ]
+> cybersecurity
 
-🌻 born:
-07/06/2007
+[ hobbies ]
+> sports
+> games
+> sketching
 
-🌻 mail:
-bhosale.harshu077@gmail.com
+[ born ]
+> 07/06/2007
+
+[ contact ]
+> bhosale.harshu077@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&width=400&lines=hello;こんにちは;नमस्ते;안녕하세요;ciao;hola" />
-
-<br><br>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=400&lines=hello;こんにちは;नमस्ते;안녕하세요;ciao;hola" />
 
 </td>
 
