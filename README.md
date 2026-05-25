@@ -56,15 +56,15 @@ root@github:~$ ./fetch.sh
 ━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=こんにちは;hello;नमस्ते;안녕하세요;ciao;hola" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=header&text=HARSHYEZ&fontColor=ff0000&fontSize=35&animation=fadeIn" />
+
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=ACCESS+GRANTED;INITIALIZING...;WELCOME+TO+MY+PROFILE" />
 </p>
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
+
 
 </td>
 
