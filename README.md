@@ -75,6 +75,9 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=ACCESS+GRANTED;INITIALIZING...;WELCOME+TO+MY+PROFILE" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:0a0a0a,100:ff0000&text=root@harsh&fontColor=ff0000&fontSize=45&animation=fadeIn"/>
+  
 </p>
 
 
