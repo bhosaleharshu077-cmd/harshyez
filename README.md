@@ -47,6 +47,21 @@ root@github:~$ ./fetch.sh
 > games
 > sketching
 
+[OS]
+Linux Mint
+
+[ Shell ]
+bash
+
+[ Learning ]
+Cybersecurity
+
+[ Editor ]
+VS Code
+
+[ Focus ]
+Linux + Networking
+
 [ born ]
 > 07/06/2007
 
@@ -58,9 +73,6 @@ root@github:~$ ./fetch.sh
 
 
 
-<h1 align="center">
-<span style="color:#ff0000;">root:~#</span>
-</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=ACCESS+GRANTED;INITIALIZING...;WELCOME+TO+MY+PROFILE" />
