@@ -18,7 +18,11 @@
 
 ```bash
 > whoami
-Cybersecurity learner
+Harsh Bhosale 
+i hack hackers
+Cybersecurity
+computer science
+
 
 > hobbies
 Sports
@@ -29,6 +33,6 @@ Sketching
 Email: bhosale.harshu077@gmail.com
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=Cybersecurity+Learner;Linux+User;JoJo+Fan" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=こんにちは;hello;नमस्ते;안녕하세요;ciao;hola" />
 
 </div>
