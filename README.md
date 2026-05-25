@@ -4,7 +4,7 @@
 <tr>
 
 <td width="55%">
-<span style="color:#ff003c;">
+
 ```txt
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠤⠤⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⣔⣢⣭⣶⣶⣿⣿⣿⣿⣿⣿⣶⣶⣭⣔⣢⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -26,7 +26,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⠶⣤⣤⣀⣀⣀⣀⣀⣀⣀⣀⣤⣤⠶⠟⠋⠁⠀⠀⠸⡄⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠋⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀
 ```
-</span>
+
 </td>
 
 <td width="45%">
@@ -36,34 +36,28 @@ root@github:~$ ./fetch.sh
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-[ host ]
+[ user ]
 > Harsh Nilesh Bhosale
-
-[ born ]
-> 07/06/2007
 
 [ field ]
 > cybersecurity
-> i hack hackers
 
 [ hobbies ]
 > sports
 > games
 > sketching
 
+[ born ]
+> 07/06/2007
+
 [ contact ]
 > bhosale.harshu077@gmail.com
-
-[ work ]
-> education
 
 ━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=こんにちは;hello;नमस्ते;안녕하세요;ciao;hola" />
-
-
-
+<font color="red">HARSHYEZ</font>
 </td>
 
 </tr>
