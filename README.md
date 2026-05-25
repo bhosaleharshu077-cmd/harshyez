@@ -60,6 +60,10 @@ root@github:~$ ./fetch.sh
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=header&text=HARSHYEZ&fontColor=ff0000&fontSize=35&animation=fadeIn" />
 
+<img src="https://readme-jokes.vercel.app/api?theme=red&hideBorder" />
+
+
+
 </td>
 
 </tr>
