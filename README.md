@@ -44,9 +44,9 @@ bhosale.harshu077@gmail.com
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=AAAAAA&width=340&lines=hello;नमस्ते;こんにちは;안녕하세요;hola;ciao;bonjour" />
 
-<br>
+<br><br>
 
-<img src="https://count.getloli.com/get/@harshborn2007?theme=gelbooru" />
+<img src="https://count.getloli.com/get/@harsh_alive_since_2007?theme=moebooru-h" />
 
 </td>
 
