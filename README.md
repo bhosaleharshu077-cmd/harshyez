@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <table>
@@ -50,18 +49,15 @@ sketching
 🌻 born:
 07/06/2007
 
-🌻 days alive:
-LIVE COUNTER BELOW ↓
-
 🌻 mail:
 bhosale.harshu077@gmail.com
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=こんにちは;hello;नमस्ते;안녕하세요;ciao;hola" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&width=400&lines=hello;こんにちは;नमस्ते;안녕하세요;ciao;hola" />
 
-<br>
+<br><br>
 
-
+<img src="https://count.getloli.com/@harsh-days-alive" />
 
 </td>
 
