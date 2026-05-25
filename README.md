@@ -45,7 +45,7 @@ sketching
 bhosale.harshu077@gmail.com
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=AAAAAA&width=320&lines=hello;नमस्ते;こんにちは;안녕하세요;hola;ciao;bonjour" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=こんにちは;hello;नमस्ते;안녕하세요;ciao;hola" />
 
 </td>
 
