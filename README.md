@@ -36,22 +36,26 @@ root@github:~$ ./fetch.sh
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-[ user ]
+[ host ]
 > Harsh Nilesh Bhosale
+
+[ born ]
+> 07/06/2007
 
 [ field ]
 > cybersecurity
+> i hack hackers
 
 [ hobbies ]
 > sports
 > games
 > sketching
 
-[ born ]
-> 07/06/2007
-
 [ contact ]
 > bhosale.harshu077@gmail.com
+
+[ work ]
+<education
 
 ━━━━━━━━━━━━━━━━━━━━━━
 ```
