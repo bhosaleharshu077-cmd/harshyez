@@ -1,12 +1,12 @@
+
 <div align="center">
 
 <table>
 <tr>
 
-<td width="90%">
+<td width="55%">
 
 ```txt
-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠤⠤⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⣔⣢⣭⣶⣶⣿⣿⣿⣿⣿⣿⣶⣶⣭⣔⣢⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⡲⢵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⣖⢄⠀⠀⠀⠀⠀⠀
@@ -26,26 +26,42 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠾⠋⢇⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⠶⣤⣤⣀⣀⣀⣀⣀⣀⣀⣀⣤⣤⠶⠟⠋⠁⠀⠀⠸⡄⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠋⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀
+```
+
+</td>
+
+<td width="45%">
+
 ```bash
 ┌──(harsh㉿github)-[~/profile]
 └─$ fetch.sh
 
-🌻name:
+🌻 name:
 Harsh Nilesh Bhosale
 
-🌻field:
+🌻 field:
 cybersecurity
 
-🌻hobbies:
+🌻 hobbies:
 sports
 games
 sketching
 
-🌻mail:
+🌻 born:
+07/06/2007
+
+🌻 days alive:
+LIVE COUNTER BELOW ↓
+
+🌻 mail:
 bhosale.harshu077@gmail.com
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=こんにちは;hello;नमस्ते;안녕하세요;ciao;hola" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=false&vCenter=true&width=400&lines=hello;こんにちは;नमस्ते;안녕하세요;ciao;hola" />
+
+<br>
+
+<img src="https://birthday-counter.vercel.app/api?date=2007-06-07&text=days%20alive&color=red" />
 
 </td>
 
