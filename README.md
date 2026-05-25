@@ -1,34 +1,52 @@
-# harshyez
+
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ```txt
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⠟⠋⠉⠙⠻⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠁⠀⠀⠀⠀⠀⠈⢿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡟⠀⠀⠀⣠⣤⣄⠀⠀⠀⢻⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠀⠀⠀⣾⠋⠉⠙⣷⠀⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⢿⣄⣀⣠⡿⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡄⠀⠀⠀⠉⠉⠉⠀⠀⠀⢠⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣷⡀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣦⣀⠀⠀⠀⣀⣴⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣦⣄
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⠟⠉⠉⠙⠻⣷⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⣾⡏⠀⠀⠀⠀⠀⢹⣷
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⢸⣿
+⠀⠀⠀⠀⠀⠀⠀⠘⣿⣆⠀⠀⠀⠀⣠⣿⠃
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣷⣤⣤⣾⠟⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠋⠙⠻⣦⡀
+⠀⠀⠀⠀⠀⠀⠀⣴⠟⠁⠀⠀⠀⠀⠈⠻⣦
+⠀⠀⠀⠀⠀⢀⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⢻⣆
+⠀⠀⠀⠀⣠⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣆
+⠀⠀⢀⣴⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣦
+⠀⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦
 ```
 
-# Harsh Nilesh Bhosale
+</td>
+<td width="50%">
 
 ```bash
-> whoami
-Cybersecurity learner
+┌──(harsh㉿github)-[~/profile]
+└─$ cat info.txt
 
-> hobbies
-Sports
-Games
-Sketching
+Harsh Nilesh Bhosale
 
-> contact
-Email: bhosale.harshu077@gmail.com
+> cybersecurity
+> sports
+> games
+> sketching
+
+mail:
+bhosale.harshu077@gmail.com
+
+--------------------------------
+
+こんにちは
+hello
+नमस्ते
+안녕하세요
+ciao
+hola
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=Cybersecurity+Learner;Linux+User;JoJo+Fan" />
-
+</td>
+</tr>
+</table>
 </div>
