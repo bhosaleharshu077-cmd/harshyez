@@ -7,31 +7,14 @@
 <td width="40%">
 
 ```txt
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⣔⣤⣤⣶⣶⣤⣤⣢⡄⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠠⣶⡻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀
-⠀⠀⠀⠀⠀⠽⠭⠽⠶⠶⠭⢝⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀
-⠒⠒⠀⢉⢏⠉⢉⣙⣋⠭⠭⠭⡜⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀
-⠀⢀⡠⠔⠚⠉⠁⠀⠀⠀⠀⠀⡤⠒⠲⣦⣤⣙⠻⢿⣿⣿⣿⣿⡇
-⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⢰⠰⠀⠀⠀⠈⠻⣿⣷⣦⣛⣿⣿⣿⣇
-⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⢄⠀⠄⣀⣀⡀⠈⠻⣿⣿⣿⣿⣿⡇
-⠀⠀⠀⠈⢆⠀⠀⠀⠀⠀⠀⠀⠉⠒⠒⠒⠂⠤⢄⡩⣝⢿⣿⡿⠁
-⠀⠀⠀⠀⠈⢢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢎⣵⡝⠁⠀
-⠀⠀⠀⠀⠀⠀⠙⠦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠴⠎⠘⠀⠀
-m⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⠶⠤⠤⠤⠤⠶⠖⠋⠁⠀⠸⠀⠀⠀
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣦⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠟⠉⠉⠻⣷
+⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⠀⠀⢹⣧
+⠀⠀⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⣿
+⠀⠀⠀⠀⠀⠀⠀⢸⣇⠀⠀⠀⠀⠀⣸⡿
+⠀⠀⠀⠀⠀⠀⠀⠀⠻⣦⣄⠀⢀⣴⠟
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠋⠁
+```
 
 </td>
 
@@ -39,7 +22,7 @@ m⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⠶⠤⠤⠤⠤⠶⠖⠋⠁⠀⠸⠀⠀⠀
 
 ```bash
 ┌──(harsh㉿github)-[~/profile]
-└─$ fetch.sh
+└─$ ./intro.sh
 
 name:
 Harsh Nilesh Bhosale
@@ -52,11 +35,18 @@ sports
 games
 sketching
 
+born:
+07/06/2007
+
 mail:
 bhosale.harshu077@gmail.com
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=AAAAAA&width=320&lines=hello;नमस्ते;こんにちは;안녕하세요;hola;ciao;bonjour" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=AAAAAA&width=340&lines=hello;नमस्ते;こんにちは;안녕하세요;hola;ciao;bonjour" />
+
+<br>
+
+<img src="https://count.getloli.com/get/@harshborn2007?theme=gelbooru" />
 
 </td>
 
