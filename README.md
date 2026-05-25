@@ -57,7 +57,6 @@ bhosale.harshu077@gmail.com
 
 <br><br>
 
-<img src="https://count.getloli.com/@harsh-days-alive" />
 
 </td>
 
