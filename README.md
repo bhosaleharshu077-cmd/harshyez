@@ -55,7 +55,7 @@ root@github:~$ ./fetch.sh
 > bhosale.harshu077@gmail.com
 
 [ work ]
-<education
+> education
 
 ━━━━━━━━━━━━━━━━━━━━━━
 ```
