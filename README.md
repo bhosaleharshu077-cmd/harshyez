@@ -36,7 +36,7 @@ root@github:~$ ./fetch.sh
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-[ user ]
+[ Host ]
 > Harsh Nilesh Bhosale
 
 [ field ]
@@ -48,19 +48,19 @@ root@github:~$ ./fetch.sh
 > sketching
 
 [OS]
-Linux Mint
+> Linux Mint
 
 [ Shell ]
-bash
+> bash
 
 [ Learning ]
-Cybersecurity
+> Cybersecurity
 
 [ Editor ]
-VS Code
+> VS Code
 
 [ Focus ]
-Linux + Networking
+> Linux + Networking
 
 [ born ]
 > 07/06/2007
