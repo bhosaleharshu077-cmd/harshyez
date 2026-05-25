@@ -64,7 +64,7 @@ root@github:~$ ./fetch.sh
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=ACCESS+GRANTED;INITIALIZING...;WELCOME+TO+MY+PROFILE" />
 </p>
 
-
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
 
 </td>
 
