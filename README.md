@@ -52,12 +52,6 @@
 [ Shell ]
 > bash
 
-[ Learning ]
-> Cybersecurity
-
-[ Editor ]
-> VS Code
-
 [ Focus ]
 > Linux + Networking
 ━━━━━━━━━━━━━━━━━━━━━
@@ -66,6 +60,7 @@
 
 [ contact ]
 > bhosale.harshu077@gmail.com
+
 
 ━━━━━━━━━━━━━━━━━━━━━━
 ```
